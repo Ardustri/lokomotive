@@ -1,3 +1,3 @@
-# 🚂 OCOMOTIVE, taking software to the next level
+# 🚂 okomotive, taking software to the next level
 
 ### © Ardustri
