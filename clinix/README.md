@@ -1,4 +1,0 @@
-# qlivith, 
-
-### 🚂 lokomotive
-### © Ardustri
