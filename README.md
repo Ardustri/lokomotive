@@ -1,3 +1,3 @@
-# 🚂 okomotive, taking software to the next level
+# 🚂 lokomotive, taking software to the next level
 
 ### © Ardustri
